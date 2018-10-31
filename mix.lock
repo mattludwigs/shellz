@@ -1,0 +1,3 @@
+%{
+  "nerves_runtime_shell": {:hex, :nerves_runtime_shell, "0.1.0", "45330fa18c119c9874f4121c08bc6ac719802de5da40c003c107019ca556f95c", [:mix], [], "hexpm"},
+}
